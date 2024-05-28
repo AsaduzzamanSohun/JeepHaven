@@ -1,36 +1,19 @@
 import { Helmet } from "react-helmet-async";
+import Slider from "../../components/Slider";
+import HomeStats from "../../components/HomeStats";
 
 const Home = () => {
     return (
-        <div className="h-[3000px]">
+        <div className="">
             <Helmet>
                 <title>Home | JeepHaven</title>
             </Helmet>
-            <h1 className="text3xl">This is home</h1>
-            <h1 className="text3xl">This is home</h1>
-            <h1 className="text3xl">This is home</h1>
-            <h1 className="text3xl">This is home</h1>
-            <h1 className="text3xl">This is home</h1>
-            <h1 className="text3xl">This is home</h1>
-            <h1 className="text3xl">This is home</h1>
-            <h1 className="text3xl">This is home</h1>
-            <h1 className="text3xl">This is home</h1>
-            <h1 className="text3xl">This is home</h1>
-            <h1 className="text3xl">This is home</h1>
-            <h1 className="text3xl">This is home</h1>
-            <h1 className="text3xl">This is home</h1>
-            <h1 className="text3xl">This is home</h1>
-            <h1 className="text3xl">This is home</h1>
-            <h1 className="text3xl">This is home</h1>
-            <h1 className="text3xl">This is home</h1>
-            <h1 className="text3xl">This is home</h1>
-            <h1 className="text3xl">This is home</h1>
-            <h1 className="text3xl">This is home</h1>
-            <h1 className="text3xl">This is home</h1>
-            <h1 className="text3xl">This is home</h1>
-            <h1 className="text3xl">This is home</h1>
-            <h1 className="text3xl">This is home</h1>
-            <h1 className="text3xl">This is home</h1>
+            <div className="container mx-auto ">
+                <Slider></Slider>
+
+                <HomeStats></HomeStats>
+            </div>
+
         </div>
     );
 };

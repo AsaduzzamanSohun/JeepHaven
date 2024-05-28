@@ -1,8 +1,8 @@
 import { useEffect, useState } from "react";
-import { Link } from "react-router-dom";
+import { Link, NavLink } from "react-router-dom";
 import { CiMenuFries } from "react-icons/ci";
 import { TfiClose } from "react-icons/tfi";
-import jeepLogo from '../assets/jeep-min.png';
+import jeepLogo from '../assets/logo/jeep-6.png';
 import 'animate.css';
 
 
@@ -35,24 +35,26 @@ const Navbar = () => {
 
     const link = <>
         <li>
-            <Link>Home</Link>
+            <NavLink to='/' className={({ isActive }) => isActive ? 'text-light-blue-accent-200' : ''}>Home</NavLink>
         </li>
         <li>
-            <Link>Cars</Link>
+            <NavLink to='/vehicles' className={({ isActive }) => isActive ? 'text-light-blue-accent-200' : ''}>Vehicles</NavLink>
         </li>
         <li>
-            <Link>About Us</Link>
+            <NavLink to='/shipping-tools' className={({ isActive }) => isActive ? 'text-light-blue-accent-200' : ''}>Shipping Tools</NavLink>
         </li>
         <li>
-            <Link>Career</Link>
+            <NavLink to='/electrification' className={({ isActive }) => isActive ? 'text-light-blue-accent-200' : ''}>Electrification</NavLink>
         </li>
-
+        <li>
+            <NavLink to='/jeep-life' className={({ isActive }) => isActive ? 'text-light-blue-accent-200' : ''}>Jeep® Life</NavLink>
+        </li>
     </>
 
 
     return (
-        <div className={` ${active ? "bg-white z-50 fixed w-full duration-500 drop-shadow-md animate__animated  animate__fadeInDown" : 'bg-white duration-1000 sticky z-50 '}`}>
-            <div className={`p-6 bg-white z-50 flex justify-between items-center `}>
+        <div className={` text-white ${active ? "bg-black z-50 fixed w-full duration-500 drop-shadow-md animate__animated  animate__fadeInDown" : 'bg-black duration-1000 sticky z-50 '}`}>
+            <div className={`p-6 bg-black z-50 flex justify-between items-center `}>
                 <Link to='/'>
                     <div className="flex items-center gap-1">
                         <img className="w-8" src={jeepLogo} alt="" />
@@ -60,33 +62,29 @@ const Navbar = () => {
                     </div>
                 </Link>
                 <div className={`hidden lg:inline-block ${active ? 'flex justify-end duration-700' : ''}`}>
-                    <ul className={`flex gap-8 `}>
+                    <ul className={`flex gap-8 text-xs font-semibold`}>
                         {link}
                     </ul>
                 </div>
                 <div className="hidden lg:inline-block space-x-2">
 
-                    <button className="rounded-full shadow-md text-sm hover:shadow-light-blue-500/40 px-4 py-2 duration-500 hover:drop-shadow-lg hover:text-light-blue-500/95 hover:bg-white">
+                    <button className="rounded-full shadow-md text-sm hover:shadow-light-blue-500/40 px-4 py-2 duration-500 hover:drop-shadow-lg hover:text-light-blue-accent-400 font-bold hover:bg-white">
                         Sign in
                     </button>
 
                     <button
-                        className="bg-light-blue-500 shadow-md shadow-light-blue-500/50 px-4 py-2 rounded-full hover:shadow-none duration-500  hover:bg-light-blue-500/80 text-white text-sm">
+                        className="bg-light-blue-500 font-bold shadow-md shadow-light-blue-500/50 px-4 py-2 rounded-full hover:shadow-none duration-500  hover:bg-light-blue-500/80 text-white text-sm">
                         Sign up
                     </button>
-
-
-
-
                 </div>
 
-                <div className="lg:hidden " onClick={() => isOpen(!open)}>
+                <div className="lg:hidden" onClick={() => isOpen(!open)}>
                     {
                         open ?
                             <TfiClose /> : <CiMenuFries />
                     }
 
-                    <div className={`absolute w-full -z-10 bg-white right-0 flex 
+                    <div className={`absolute w-full -z-10 bg-gray-700 right-0 flex 
                         ${open ? 'top-[72px] duration-[400ms] ' : '-top-[800px] duration-[400ms]'}`}>
 
 
@@ -98,21 +96,11 @@ const Navbar = () => {
                                 <button className="rounded-full shadow-md bg-light-blue-50 text-sm shadow-light-blue-500/40 px-4 py-2 duration-500 hover:drop-shadow-lg hover:text-light-blue-500/95 hover:shadow-none hover:bg-white">
                                     Sign in
                                 </button>
-
-
                             </div>
                         </div>
-
                     </div>
-
-
                 </div>
-
-
-
-
             </div>
-
         </div>
     );
 };

@@ -12,6 +12,9 @@ module.exports = withMT({
   ],
   theme: {
     extend: {
+      fontFamily: {
+        'inter': '"Inter", sans-serif'
+      },
       colors: {
         red: {
           '50': '#ffebee',

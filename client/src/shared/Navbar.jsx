@@ -68,7 +68,7 @@ const Navbar = () => {
                 </div>
                 <div className="hidden lg:inline-block space-x-2">
 
-                    <button className="rounded-full shadow-md text-sm hover:shadow-light-blue-500/40 px-4 py-2 duration-500 hover:drop-shadow-lg hover:text-light-blue-accent-400 font-bold hover:bg-white">
+                    <button className="rounded-full shadow-md text-sm hover:shadow-light-blue-500/40 px-4 py-2 duration-500 hover:drop-shadow-lg hover:text-light-blue-accent-700 font-bold hover:bg-white">
                         Sign in
                     </button>
 

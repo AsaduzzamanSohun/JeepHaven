@@ -4,7 +4,7 @@ import HomeStats from "../../components/HomeStats";
 
 const Home = () => {
     return (
-        <div className="bg-[#274060]">
+        <div className="">
             <Helmet>
                 <title>Home | JeepHaven</title>
             </Helmet>

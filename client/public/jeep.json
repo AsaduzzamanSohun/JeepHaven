@@ -1,0 +1,542 @@
+[
+    {
+        "category": "Wrangler",
+        "model_name": "Jeep Wrangler Rubicon 4xe",
+        "image": "[https://www.jeep.com/wrangler/wrangler-4xe.html](https://www.jeep.com/wrangler/wrangler-4xe.html)",
+        "year": 2024,
+        "mileage": "Up to 20 combined MPGe (estimated)",
+        "engine_type": "turbocharged 2.0L I4 PHEV",
+        "performance": "375 horsepower @ 6400 rpm, 470 lb-ft torque @ 3000 rpm (estimated)",
+        "transmission": "8-speed Automatic",
+        "drivetrain": "Selectable Full-Time 4WD with Selec-Trac® and Electronic Locking Differentials",
+        "exterior_dimensions": {
+            "length": "457.2 (2-Door) or 488.2 (4-Door)",
+            "width": "180.5",
+            "height": "181.8"
+        },
+        "interior_space": "90.4 cubic feet of passenger volume (2-Door) or 85.3 cubic feet (4-Door), 84.7 cubic feet of cargo space",
+        "towing_capacity": "3,500 lbs (estimated)"
+    },
+    {
+        "category": "Wrangler",
+        "model_name": "Jeep Wrangler Unlimited Willys",
+        "image": "[https://www.jeep.com/wrangler/wrangler-unlimited-willys.html](https://www.jeep.com/wrangler/wrangler-unlimited-willys.html)",
+        "year": 2024,
+        "mileage": "Up to 18 city / 21 highway (estimated)",
+        "engine_type": "3.6L Pentastar V6 (likely)",
+        "performance": "285 horsepower @ 6400 rpm, 260 lb-ft torque @ 4800 rpm (estimated)",
+        "transmission": "6-speed Manual or Available 8-speed Automatic",
+        "drivetrain": "Command-Trac® Part-Time 4WD with Dana 44 axles",
+        "exterior_dimensions": {
+            "length": "488.2",
+            "width": "180.5",
+            "height": "181.8"
+        },
+        "interior_space": "85.3 cubic feet of passenger volume, 84.7 cubic feet of cargo space",
+        "towing_capacity": "3,500 lbs (estimated)"
+    },
+    {
+        "category": "Wrangler",
+        "model_name": "Jeep Wrangler Sahara Altitude",
+        "image": "[https://www.jeep.com/wrangler/wrangler-sahara.html](https://www.jeep.com/wrangler/wrangler-sahara.html)",
+        "year": 2024,
+        "mileage": "Up to 18 city / 23 highway (estimated)",
+        "engine_type": "3.6L Pentastar V6 (likely)",
+        "performance": "285 horsepower @ 6400 rpm, 260 lb-ft torque @ 4800 rpm (estimated)",
+        "transmission": "8-speed Automatic",
+        "drivetrain": "Command-Trac® Part-Time 4WD with Dana 44 axles or Available Electronic Locking Differential",
+        "exterior_dimensions": {
+            "length": "457.2 (2-Door) or 488.2 (4-Door)",
+            "width": "180.5",
+            "height": "181.8"
+        },
+        "interior_space": "85.3 cubic feet of passenger volume, 84.7 cubic feet of cargo space",
+        "towing_capacity": "3,500 lbs (estimated)"
+    },
+    {
+        "category": "Wrangler",
+        "model_name": "Jeep Wrangler Sport S",
+        "image": "[https://www.jeep.com/wrangler/wrangler-sport.html](https://www.jeep.com/wrangler/wrangler-sport.html)",
+        "year": 2024,
+        "mileage": "Up to 19 city / 24 highway (estimated)",
+        "engine_type": "3.6L Pentastar V6 (likely)",
+        "performance": "285 horsepower @ 6400 rpm, 260 lb-ft torque @ 4800 rpm (estimated)",
+        "transmission": "6-speed Manual",
+        "drivetrain": "Command-Trac® Part-Time 4WD with Dana 30 axles",
+        "exterior_dimensions": {
+            "length": "457.2 (2-Door) or 488.2 (4-Door)",
+            "width": "180.5",
+            "height": "181.8"
+        },
+        "interior_space": "85.3 cubic feet of passenger volume, 84.7 cubic feet of cargo space",
+        "towing_capacity": "3,000 lbs (estimated)"
+    },
+    {
+        "category": "Wrangler",
+        "model_name": "Jeep Wrangler Rubicon 392",
+        "image": "[https://www.jeep.com/wrangler/wrangler-rubicon.html](https://www.jeep.com/wrangler/wrangler-rubicon.html)",
+        "year": 2024,
+        "mileage": "Up to 17 city / 21 highway (estimated)",
+        "engine_type": "6.4L HEMI V8",
+        "performance": "470 horsepower @ 6000 rpm, 470 lb-ft torque @ 4300 rpm (estimated)",
+        "transmission": "8-speed Automatic",
+        "drivetrain": "Rock-Trac® Full-Time 4WD with Electronic Locking Differentials and Selec-Speed Crawl Control",
+        "exterior_dimensions": {
+            "length": "457.2 (2-Door) or 488.2 (4-Door)",
+            "width": "180.5",
+            "height": "181.8"
+        },
+        "interior_space": "85.3 cubic feet of passenger volume, 84.7 cubic feet of cargo space",
+        "towing_capacity": "4,500 lbs (estimated)"
+    },
+    {
+        "category": "Gladiator",
+        "model_name": "Jeep Gladiator Rubicon",
+        "image": "[https://www.jeep.com/gladiator/capability.html](https://www.jeep.com/gladiator/capability.html)",
+        "year": 2024,
+        "mileage": "Up to 17 city / 22 highway (estimated)",
+        "engine_type": "3.6L Pentastar V6 (likely)",
+        "performance": "285 horsepower @ 6400 rpm, 260 lb-ft torque @ 4800 rpm (estimated)",
+        "transmission": "8-speed Automatic",
+        "drivetrain": "Rock-Trac® Full-Time 4WD with Electronic Locking Differentials and Selec-Speed Crawl Control",
+        "exterior_dimensions": {
+            "length": "560.7 cm",
+            "width": "180.5 cm",
+            "height": "181.7 cm"
+        },
+        "interior_space": "84.5 cubic feet of passenger volume, 43.3 cubic feet of cargo space",
+        "towing_capacity": "7,000 lbs (estimated)"
+    },
+    {
+        "category": "Gladiator",
+        "model_name": "Jeep Gladiator Mojave",
+        "image": "[https://www.jeep.com/gladiator/gladiator-mojave.html](https://www.jeep.com/gladiator/gladiator-mojave.html)",
+        "year": 2024,
+        "mileage": "Up to 16 city / 20 highway (estimated)",
+        "engine_type": "3.6L Pentastar V6 (likely)",
+        "performance": "285 horsepower @ 6400 rpm, 260 lb-ft torque @ 4800 rpm (estimated)",
+        "transmission": "8-speed Automatic",
+        "drivetrain": "Full-Time 4WD with FOX® Internal Bypass Shocks and Electronic Locking Differential",
+        "exterior_dimensions": {
+            "length": "560.7 cm",
+            "width": "180.5 cm",
+            "height": "181.7 cm"
+        },
+        "interior_space": "84.5 cubic feet of passenger volume, 43.3 cubic feet of cargo space",
+        "towing_capacity": "6,000 lbs (estimated)"
+    },
+    {
+        "category": "Gladiator",
+        "model_name": "Jeep Gladiator Overland",
+        "image": "[https://www.jeep.com/gladiator/gladiator-overland.html](https://www.jeep.com/gladiator/gladiator-overland.html)",
+        "year": 2024,
+        "mileage": "Up to 18 city / 23 highway (estimated)",
+        "engine_type": "3.6L Pentastar V6 (likely)",
+        "performance": "285 horsepower @ 6400 rpm, 260 lb-ft torque @ 4800 rpm (estimated)",
+        "transmission": "8-speed Automatic",
+        "drivetrain": "Command-Trac® Part-Time 4WD with Dana 44 axles and Electronic Locking Differential",
+        "exterior_dimensions": {
+            "length": "560.7 cm",
+            "width": "180.5 cm",
+            "height": "181.7 cm"
+        },
+        "interior_space": "84.5 cubic feet of passenger volume, 43.3 cubic feet of cargo space",
+        "towing_capacity": "7,000 lbs (estimated)"
+    },
+    {
+        "category": "Gladiator",
+        "model_name": "Jeep Gladiator Sport S",
+        "image": "[https://www.jeep.com/gladiator/gladiator.html](https://www.jeep.com/gladiator/gladiator.html)",
+        "year": 2024,
+        "mileage": "Up to 19 city / 24 highway (estimated)",
+        "engine_type": "3.6L Pentastar V6 (likely)",
+        "performance": "285 horsepower @ 6400 rpm, 260 lb-ft torque @ 4800 rpm (estimated)",
+        "transmission": "6-speed Manual",
+        "drivetrain": "Command-Trac® Part-Time 4WD with Dana 44 axles",
+        "exterior_dimensions": {
+            "length": "560.7 cm",
+            "width": "180.5 cm",
+            "height": "181.7 cm"
+        },
+        "interior_space": "84.5 cubic feet of passenger volume, 43.3 cubic feet of cargo space",
+        "towing_capacity": "4,500 lbs (estimated)"
+    },
+    {
+        "category": "Gladiator",
+        "model_name": "Jeep Gladiator High Altitude",
+        "image": "[https://www.jeep.com/gladiator/gladiator-overland.html](https://www.jeep.com/gladiator/gladiator-overland.html)",
+        "year": 2024,
+        "mileage": "Up to 17 city / 21 highway (estimated)",
+        "engine_type": "3.6L Pentastar V6 (likely)",
+        "performance": "285 horsepower @ 6400 rpm, 260 lb-ft torque @ 4800 rpm (estimated)",
+        "transmission": "8-speed Automatic",
+        "drivetrain": "Command-Trac® Part-Time 4WD with Dana 44 axles",
+        "exterior_dimensions": {
+            "length": "560.7 cm",
+            "width": "180.5 cm",
+            "height": "181.7 cm"
+        },
+        "interior_space": "84.5 cubic feet of passenger volume, 43.3 cubic feet of cargo space",
+        "towing_capacity": "6,000 lbs (estimated)"
+    },
+    {
+        "category": "Cherokee",
+        "model_name": "2023 Jeep Cherokee Trailhawk",
+        "image": "https://www.jeep.com/cherokee/capability.html",
+        "year": 2023,
+        "mileage": "Up to 20 combined MPGe (estimated)",
+        "engine_type": "turbocharged 2.0L I4 PHEV (likely)",
+        "performance": "375 horsepower @ 6400 rpm, 470 lb-ft torque @ 3000 rpm (estimated)",
+        "transmission": "8-speed Automatic",
+        "drivetrain": "Jeep® Active Drive Lock 4x4 System with rear locking differential",
+        "exterior_dimensions": {
+            "length": "465.2 cm",
+            "width": "180.5 cm",
+            "height": "170.5 cm"
+        },
+        "interior_space": "90.4 cubic feet of passenger volume, 79.5 cubic feet of cargo space",
+        "towing_capacity": "3,500 lbs (estimated)"
+    },
+    {
+        "category": "Cherokee",
+        "model_name": "2023 Jeep Cherokee Limited",
+        "image": "https://www.jeep.com/cherokee.html",
+        "year": 2023,
+        "mileage": "Up to 18 city / 25 highway (estimated)",
+        "engine_type": "3.2L Pentastar V6 (likely)",
+        "performance": "271 horsepower @ 6500 rpm, 239 lb-ft torque @ 4800 rpm (estimated)",
+        "transmission": "9-speed Automatic",
+        "drivetrain": "Selectable Full-Time 4WD with Active Drive I®",
+        "exterior_dimensions": {
+            "length": "465.2 cm",
+            "width": "180.5 cm",
+            "height": "170.5 cm"
+        },
+        "interior_space": "90.4 cubic feet of passenger volume, 79.5 cubic feet of cargo space",
+        "towing_capacity": "4,500 lbs (estimated)"
+    },
+    {
+        "category": "Cherokee",
+        "model_name": "2023 Jeep Cherokee Latitude",
+        "image": "https://www.jeep.com/cherokee.html",
+        "year": 2023,
+        "mileage": "Up to 19 city / 27 highway (estimated)",
+        "engine_type": "2.0L I4 (likely)",
+        "performance": "200 horsepower @ 6400 rpm, 184 lb-ft torque @ 4500 rpm (estimated)",
+        "transmission": "9-speed Automatic",
+        "drivetrain": "Front-wheel drive (FWD) or Available Jeep® Active Drive I® 4WD",
+        "exterior_dimensions": {
+            "length": "465.2 cm",
+            "width": "180.5 cm",
+            "height": "170.5 cm"
+        },
+        "interior_space": "90.4 cubic feet of passenger volume, 79.5 cubic feet of cargo space",
+        "towing_capacity": "2,000 lbs (estimated)"
+    },
+    {
+        "category": "Cherokee",
+        "model_name": "2023 Jeep Cherokee Altitude",
+        "image": "[https://www.jeep.com/cherokee.html](https://www.jeep.com/cherokee.html)",
+        "year": 2023,
+        "mileage": "Up to 18 city / 24 highway (estimated)",
+        "engine_type": "3.2L Pentastar V6 (likely)",
+        "performance": "271 horsepower @ 6500 rpm, 239 lb-ft torque @ 4800 rpm (estimated)",
+        "transmission": "9-speed Automatic",
+        "drivetrain": "Jeep® Active Drive I® 4WD",
+        "exterior_dimensions": {
+            "length": "465.2 cm",
+            "width": "180.5 cm",
+            "height": "170.5 cm"
+        },
+        "interior_space": "90.4 cubic feet of passenger volume, 79.5 cubic feet of cargo space",
+        "towing_capacity": "4,500 lbs (estimated)"
+    },
+    {
+        "category": "Cherokee",
+        "model_name": "2023 Jeep Cherokee Upland",
+        "image": "[https://www.jeep.com/cherokee.html](https://www.jeep.com/cherokee.html)",
+        "year": 2023,
+        "mileage": "Up to 19 city / 26 highway (estimated)",
+        "engine_type": "2.0L I4 (likely)",
+        "performance": "200 horsepower @ 6400 rpm, 184 lb-ft torque @ 4500 rpm (estimated)",
+        "transmission": "9-speed Automatic",
+        "drivetrain": "Jeep® Active Drive I® 4WD",
+        "exterior_dimensions": {
+            "length": "465.2 cm",
+            "width": "180.5 cm",
+            "height": "170.5 cm"
+        },
+        "interior_space": "90.4 cubic feet of passenger volume, 79.5 cubic feet of cargo space",
+        "towing_capacity": "3,200 lbs (estimated)"
+    },
+    {
+        "category": "Compass",
+        "model_name": "Jeep Compass Trailhawk",
+        "image": "https://www.jeep.com/compass/capability.html",
+        "year": 2024,
+        "mileage": "Up to 20 city / 25 highway (estimated)",
+        "engine_type": "2.0L Turbo I4 (likely)",
+        "performance": "270 horsepower @ 5250 rpm, 295 lb-ft torque @ 1750 rpm (estimated)",
+        "transmission": "9-speed Automatic",
+        "drivetrain": "Jeep® Active Drive Low 4x4 System with disconnecting rear axle and Rock mode",
+        "exterior_dimensions": {
+            "length": "439.9 cm",
+            "width": "180.5 cm",
+            "height": "163.6 cm"
+        },
+        "interior_space": "85.1 cubic feet of passenger volume, 27.7 cubic feet of cargo space",
+        "towing_capacity": "2,000 lbs (estimated)"
+    },
+    {
+        "category": "Compass",
+        "model_name": "Jeep Compass Limited",
+        "image": "https://www.jeep.com/compass.html",
+        "year": 2024,
+        "mileage": "Up to 22 city / 31 highway (estimated)",
+        "engine_type": "2.0L I4 (likely)",
+        "performance": "200 horsepower @ 6400 rpm, 184 lb-ft torque @ 4500 rpm (estimated)",
+        "transmission": "8-speed Automatic",
+        "drivetrain": "Jeep® Active Drive I® 4WD",
+        "exterior_dimensions": {
+            "length": "439.9 cm",
+            "width": "180.5 cm",
+            "height": "163.6 cm"
+        },
+        "interior_space": "85.1 cubic feet of passenger volume, 27.7 cubic feet of cargo space",
+        "towing_capacity": "1,500 lbs (estimated)"
+    },
+    {
+        "category": "Compass",
+        "model_name": "Jeep Compass Latitude",
+        "image": "https://www.jeep.com/compass/specs.latitude.html",
+        "year": 2024,
+        "mileage": "Up to 23 city / 32 highway (estimated)",
+        "engine_type": "2.0L I4 (likely)",
+        "performance": "200 horsepower @ 6400 rpm, 184 lb-ft torque @ 4500 rpm (estimated)",
+        "transmission": "8-speed Automatic",
+        "drivetrain": "Front-wheel drive (FWD) or Available Jeep® Active Drive I® 4WD",
+        "exterior_dimensions": {
+            "length": "439.9 cm",
+            "width": "180.5 cm",
+            "height": "163.6 cm"
+        },
+        "interior_space": "85.1 cubic feet of passenger volume, 27.7 cubic feet of cargo space",
+        "towing_capacity": "1,000 lbs (estimated)"
+    },
+    {
+        "category": "Compass",
+        "model_name": "Jeep Compass Altitude",
+        "image": "[https://www.jeep.com/compass/specs.html](https://www.jeep.com/compass/specs.html)",
+        "year": 2024,
+        "mileage": "Up to 21 city / 30 highway (estimated)",
+        "engine_type": "2.0L I4 (likely)",
+        "performance": "200 horsepower @ 6400 rpm, 184 lb-ft torque @ 4500 rpm (estimated)",
+        "transmission": "8-speed Automatic",
+        "drivetrain": "Jeep® Active Drive I® 4WD",
+        "exterior_dimensions": {
+            "length": "439.9 cm",
+            "width": "180.5 cm",
+            "height": "163.6 cm"
+        },
+        "interior_space": "85.1 cubic feet of passenger volume, 27.7 cubic feet of cargo space",
+        "towing_capacity": "1,500 lbs (estimated)"
+    },
+    {
+        "category": "Compass",
+        "model_name": "Jeep Compass Sport",
+        "image": "[https://www.jeep.com/compass/specs.sport.html](https://www.jeep.com/compass/specs.sport.html)",
+        "year": 2024,
+        "mileage": "Up to 24 city / 33 highway (estimated)",
+        "engine_type": "2.0L I4 (likely)",
+        "performance": "200 horsepower @ 6400 rpm, 184 lb-ft torque @ 4500 rpm (estimated)",
+        "transmission": "8-speed Automatic",
+        "drivetrain": "Front-wheel drive (FWD)",
+        "exterior_dimensions": {
+            "length": "439.9 cm",
+            "width": "180.5 cm",
+            "height": "163.6 cm"
+        },
+        "interior_space": "85.1 cubic feet of passenger volume, 27.7 cubic feet of cargo space",
+        "towing_capacity": "1,000 lbs (estimated)"
+    },
+    {
+        "category": "Grand Cherokee",
+        "model_name": "Jeep Grand Cherokee Summit Reserve",
+        "image": "https://www.jeep.com/grand-cherokee/specs.summit-reserve.html",
+        "year": 2024,
+        "mileage": "Up to 19 city / 26 highway (estimated)",
+        "engine_type": "3.0L HEMI V6 (likely)",
+        "performance": "400 horsepower @ 6400 rpm, 470 lb-ft torque @ 4800 rpm (estimated)",
+        "transmission": "8-speed Automatic",
+        "drivetrain": "Quadra-Trac® Full-Time Active 4WD with Electronic Limited Slip Differential (ELSD)",
+        "exterior_dimensions": {
+            "length": "488.2 cm (LWB) or 468.6 cm (SWB)",
+            "width": "193.9 cm",
+            "height": "180.2 cm"
+        },
+        "interior_space": "38.6 cubic feet cargo space (estimated for LWB)",
+        "towing_capacity": "8,200 lbs (estimated)"
+    },
+    {
+        "category": "Grand Cherokee",
+        "model_name": "Jeep Grand Cherokee Overland",
+        "image": "https://www.jeep.com/grand-cherokee.html",
+        "year": 2024,
+        "mileage": "Up to 20 city / 27 highway (estimated)",
+        "engine_type": "3.6L Pentastar V6 (likely)",
+        "performance": "290 horsepower @ 6400 rpm, 257 lb-ft torque @ 4000 rpm (estimated)",
+        "transmission": "8-speed Automatic",
+        "drivetrain": "Quadra-Drive® II Full-Time Active 4WD System with Electronic Limited Slip Differential (ELSD) and Selec-Terrain® Traction Management System",
+        "exterior_dimensions": {
+            "length": "488.2 cm (LWB) or 468.6 cm (SWB)",
+            "width": "193.9 cm",
+            "height": "180.2 cm"
+        },
+        "interior_space": "38.6 cubic feet cargo space (estimated for LWB)",
+        "towing_capacity": "6,000 lbs (estimated)"
+    },
+    {
+        "category": "Grand Cherokee",
+        "model_name": "Jeep Grand Cherokee Laredo",
+        "image": "https://www.jeep.com/grand-cherokee/specs.laredo.html",
+        "year": 2024,
+        "mileage": "Up to 23 city / 32 highway (estimated)",
+        "engine_type": "3.6L Pentastar V6 (likely)",
+        "performance": "290 horsepower @ 6400 rpm, 257 lb-ft torque @ 4000 rpm (estimated)",
+        "transmission": "8-speed Automatic",
+        "drivetrain": "Quadra-Trac® I 4WD System with Selec-Terrain® Traction Management System",
+        "exterior_dimensions": {
+            "length": "488.2 cm (LWB) or 468.6 cm (SWB)",
+            "width": "193.9 cm",
+            "height": "180.2 cm"
+        },
+        "interior_space": "38.6 cubic feet cargo space (estimated for LWB)",
+        "towing_capacity": "4,500 lbs (estimated)"
+    },
+    {
+        "category": "Grand Cherokee",
+        "model_name": "Jeep Grand Cherokee Limited",
+        "image": "https://www.jeep.com/grand-cherokee/specs.limited.html",
+        "year": 2024,
+        "mileage": "Up to 21 city / 29 highway (estimated)",
+        "engine_type": "3.6L Pentastar V6 (likely)",
+        "performance": "290 horsepower @ 6400 rpm, 257 lb-ft torque @ 4000 rpm (estimated)",
+        "transmission": "8-speed Automatic",
+        "drivetrain": "Quadra-Trac® I 4WD System with Selec-Terrain® Traction Management System",
+        "exterior_dimensions": {
+            "length": "488.2 cm (LWB) or 468.6 cm (SWB)",
+            "width": "193.9 cm",
+            "height": "180.2 cm"
+        },
+        "interior_space": "38.6 cubic feet cargo space (estimated for LWB)",
+        "towing_capacity": "6,000 lbs (estimated)"
+    },
+    {
+        "category": "Grand Cherokee",
+        "model_name": "Jeep Grand Cherokee Trailhawk",
+        "image": "https://www.jeep.com/grand-cherokee/capability.html",
+        "year": 2024,
+        "mileage": "Up to 20 city / 25 highway (estimated)",
+        "engine_type": "2.0L Turbo I4 (likely)",
+        "performance": "270 horsepower @ 5250 rpm, 295 lb-ft torque @ 1750 rpm (estimated)",
+        "transmission": "9-speed Automatic",
+        "drivetrain": "Jeep® Active Drive Low 4x4 System with disconnecting rear axle and Rock mode",
+        "exterior_dimensions": {
+            "length": "488.2 cm (LWB) or 468.6 cm (SWB)",
+            "width": "193.9 cm",
+            "height": "180.2 cm"
+        },
+        "interior_space": "38.6 cubic feet cargo space (estimated for LWB)",
+        "towing_capacity": "6,500 lbs (estimated)"
+    },
+    {
+        "category": "Renegade",
+        "model_name": "Jeep Renegade Trailhawk",
+        "image": "https://www.jeep.com/renegade/capability.html",
+        "year": 2024,
+        "mileage": "Up to 21 city / 27 highway (estimated)",
+        "engine_type": "1.3L Turbo I4 (likely)",
+        "performance": "180 horsepower @ 5250 rpm, 175 lb-ft torque @ 1750 rpm (estimated)",
+        "transmission": "9-speed Automatic",
+        "drivetrain": "Jeep® Active Drive Low 4x4 System with disconnecting rear axle and Rock mode",
+        "exterior_dimensions": {
+            "length": "423.9 cm",
+            "width": "180.5 cm",
+            "height": "169.7 cm"
+        },
+        "interior_space": "87.4 cubic feet of passenger volume, 15.1 cubic feet of cargo space",
+        "towing_capacity": "2,000 lbs (estimated)"
+    },
+    {
+        "category": "Renegade",
+        "model_name": "Jeep Renegade Limited",
+        "image": "https://www.jeep.com/renegade.html",
+        "year": 2024,
+        "mileage": "Up to 23 city / 31 highway (estimated)",
+        "engine_type": "2.0L I4 (likely)",
+        "performance": "200 horsepower @ 6400 rpm, 184 lb-ft torque @ 4500 rpm (estimated)",
+        "transmission": "8-speed Automatic",
+        "drivetrain": "Jeep® Active Drive I® 4WD",
+        "exterior_dimensions": {
+            "length": "423.9 cm",
+            "width": "180.5 cm",
+            "height": "169.7 cm"
+        },
+        "interior_space": "87.4 cubic feet of passenger volume, 15.1 cubic feet of cargo space",
+        "towing_capacity": "1,500 lbs (estimated)"
+    },
+    {
+        "category": "Renegade",
+        "model_name": "Jeep Renegade Latitude",
+        "image": "https://www.jeep.com/renegade/specs.latitude.html",
+        "year": 2024,
+        "mileage": "Up to 24 city / 32 highway (estimated)",
+        "engine_type": "1.8L I4 (likely)",
+        "performance": "170 horsepower @ 6300 rpm, 166 lb-ft torque @ 4600 rpm (estimated)",
+        "transmission": "6-speed Automatic",
+        "drivetrain": "Front-wheel drive (FWD) or Available Jeep® Active Drive I® 4WD",
+        "exterior_dimensions": {
+            "length": "423.9 cm",
+            "width": "180.5 cm",
+            "height": "169.7 cm"
+        },
+        "interior_space": "87.4 cubic feet of passenger volume, 15.1 cubic feet of cargo space",
+        "towing_capacity": "1,000 lbs (estimated)"
+    },
+    {
+        "category": "Renegade",
+        "model_name": "Jeep Renegade Altitude",
+        "image": "https://www.jeep.com/renegade/specs.html",
+        "year": 2024,
+        "mileage": "Up to 22 city / 30 highway (estimated)",
+        "engine_type": "2.0L I4 (likely)",
+        "performance": "200 horsepower @ 6400 rpm, 184 lb-ft torque @ 4500 rpm (estimated)",
+        "transmission": "8-speed Automatic",
+        "drivetrain": "Jeep® Active Drive I® 4WD",
+        "exterior_dimensions": {
+            "length": "423.9 cm",
+            "width": "180.5 cm",
+            "height": "169.7 cm"
+        },
+        "interior_space": "87.4 cubic feet of passenger volume, 15.1 cubic feet of cargo space",
+        "towing_capacity": "1,500 lbs (estimated)"
+    },
+    {
+        "category": "Renegade",
+        "model_name": "Jeep Renegade Upland",
+        "image": "https://moparinsiders.com/jeep-renegade-upland-returns-to-america-for-2023-model-year/",
+        "year": 2024,
+        "mileage": "Up to 24 city / 32 highway (estimated)",
+        "engine_type": "1.8L I4 (likely)",
+        "performance": "170 horsepower @ 6300 rpm, 166 lb-ft torque @ 4600 rpm (estimated)",
+        "transmission": "6-speed Automatic",
+        "drivetrain": "Front-wheel drive (FWD) or Available Jeep® Active Drive I® 4WD",
+        "exterior_dimensions": {
+            "length": "423.9 cm",
+            "width": "180.5 cm",
+            "height": "169.7 cm"
+        },
+        "interior_space": "87.4 cubic feet of passenger volume, 15.1 cubic feet of cargo space",
+        "towing_capacity": "1,000 lbs (estimated)"
+    }
+]

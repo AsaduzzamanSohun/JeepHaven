@@ -8,10 +8,11 @@ const Home = () => {
             <Helmet>
                 <title>Home | JeepHaven</title>
             </Helmet>
-            <div className="container mx-auto ">
-                <Slider></Slider>
+            <Slider></Slider>
 
+            <div className="container mx-auto ">
                 <HomeStats></HomeStats>
+                
             </div>
 
         </div>

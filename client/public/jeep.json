@@ -15,7 +15,8 @@
             "height": "181.8"
         },
         "interior_space": "90.4 cubic feet of passenger volume (2-Door) or 85.3 cubic feet (4-Door), 84.7 cubic feet of cargo space",
-        "towing_capacity": "3,500 lbs (estimated)"
+        "towing_capacity": "3,500 lbs (estimated)",
+        "price": 51975
     },
     {
         "category": "Wrangler",
@@ -33,7 +34,8 @@
             "height": "181.8"
         },
         "interior_space": "85.3 cubic feet of passenger volume, 84.7 cubic feet of cargo space",
-        "towing_capacity": "3,500 lbs (estimated)"
+        "towing_capacity": "3,500 lbs (estimated)",
+        "price": 42795
     },
     {
         "category": "Wrangler",
@@ -51,12 +53,13 @@
             "height": "181.8"
         },
         "interior_space": "85.3 cubic feet of passenger volume, 84.7 cubic feet of cargo space",
-        "towing_capacity": "3,500 lbs (estimated)"
+        "towing_capacity": "3,500 lbs (estimated)",
+        "price": 45095
     },
     {
         "category": "Wrangler",
         "model_name": "Jeep Wrangler Sport S",
-        "image": "[https://www.jeep.com/wrangler/wrangler-sport.html](https://www.jeep.com/wrangler/wrangler-sport.html)",
+        "image": "https://www.jeep.com/wrangler/wrangler-sport.html",
         "year": 2024,
         "mileage": "Up to 19 city / 24 highway (estimated)",
         "engine_type": "3.6L Pentastar V6 (likely)",
@@ -69,12 +72,13 @@
             "height": "181.8"
         },
         "interior_space": "85.3 cubic feet of passenger volume, 84.7 cubic feet of cargo space",
-        "towing_capacity": "3,000 lbs (estimated)"
+        "towing_capacity": "3,000 lbs (estimated)",
+        "price": 40095
     },
     {
         "category": "Wrangler",
         "model_name": "Jeep Wrangler Rubicon 392",
-        "image": "[https://www.jeep.com/wrangler/wrangler-rubicon.html](https://www.jeep.com/wrangler/wrangler-rubicon.html)",
+        "image": "https://www.jeep.com/wrangler/wrangler-rubicon.html",
         "year": 2024,
         "mileage": "Up to 17 city / 21 highway (estimated)",
         "engine_type": "6.4L HEMI V8",
@@ -87,12 +91,13 @@
             "height": "181.8"
         },
         "interior_space": "85.3 cubic feet of passenger volume, 84.7 cubic feet of cargo space",
-        "towing_capacity": "4,500 lbs (estimated)"
+        "towing_capacity": "4,500 lbs (estimated)",
+        "price": 53995
     },
     {
         "category": "Gladiator",
         "model_name": "Jeep Gladiator Rubicon",
-        "image": "[https://www.jeep.com/gladiator/capability.html](https://www.jeep.com/gladiator/capability.html)",
+        "image": "https://www.jeep.com/gladiator/capability.html",
         "year": 2024,
         "mileage": "Up to 17 city / 22 highway (estimated)",
         "engine_type": "3.6L Pentastar V6 (likely)",
@@ -105,12 +110,13 @@
             "height": "181.7 cm"
         },
         "interior_space": "84.5 cubic feet of passenger volume, 43.3 cubic feet of cargo space",
-        "towing_capacity": "7,000 lbs (estimated)"
+        "towing_capacity": "7,000 lbs (estimated)",
+        "price": 51595
     },
     {
         "category": "Gladiator",
         "model_name": "Jeep Gladiator Mojave",
-        "image": "[https://www.jeep.com/gladiator/gladiator-mojave.html](https://www.jeep.com/gladiator/gladiator-mojave.html)",
+        "image": "https://www.jeep.com/gladiator/gladiator-mojave.html",
         "year": 2024,
         "mileage": "Up to 16 city / 20 highway (estimated)",
         "engine_type": "3.6L Pentastar V6 (likely)",
@@ -123,12 +129,13 @@
             "height": "181.7 cm"
         },
         "interior_space": "84.5 cubic feet of passenger volume, 43.3 cubic feet of cargo space",
-        "towing_capacity": "6,000 lbs (estimated)"
+        "towing_capacity": "6,000 lbs (estimated)",
+        "price": 54595
     },
     {
         "category": "Gladiator",
         "model_name": "Jeep Gladiator Overland",
-        "image": "[https://www.jeep.com/gladiator/gladiator-overland.html](https://www.jeep.com/gladiator/gladiator-overland.html)",
+        "image": "https://www.jeep.com/gladiator/gladiator-overland.html",
         "year": 2024,
         "mileage": "Up to 18 city / 23 highway (estimated)",
         "engine_type": "3.6L Pentastar V6 (likely)",
@@ -141,12 +148,13 @@
             "height": "181.7 cm"
         },
         "interior_space": "84.5 cubic feet of passenger volume, 43.3 cubic feet of cargo space",
-        "towing_capacity": "7,000 lbs (estimated)"
+        "towing_capacity": "7,000 lbs (estimated)",
+        "price": 49595
     },
     {
         "category": "Gladiator",
         "model_name": "Jeep Gladiator Sport S",
-        "image": "[https://www.jeep.com/gladiator/gladiator.html](https://www.jeep.com/gladiator/gladiator.html)",
+        "image": "https://www.jeep.com/gladiator/gladiator.html",
         "year": 2024,
         "mileage": "Up to 19 city / 24 highway (estimated)",
         "engine_type": "3.6L Pentastar V6 (likely)",
@@ -159,12 +167,13 @@
             "height": "181.7 cm"
         },
         "interior_space": "84.5 cubic feet of passenger volume, 43.3 cubic feet of cargo space",
-        "towing_capacity": "4,500 lbs (estimated)"
+        "towing_capacity": "4,500 lbs (estimated)",
+        "price": 40595
     },
     {
         "category": "Gladiator",
         "model_name": "Jeep Gladiator High Altitude",
-        "image": "[https://www.jeep.com/gladiator/gladiator-overland.html](https://www.jeep.com/gladiator/gladiator-overland.html)",
+        "image": "https://www.jeep.com/gladiator/gladiator-overland.html",
         "year": 2024,
         "mileage": "Up to 17 city / 21 highway (estimated)",
         "engine_type": "3.6L Pentastar V6 (likely)",
@@ -177,7 +186,8 @@
             "height": "181.7 cm"
         },
         "interior_space": "84.5 cubic feet of passenger volume, 43.3 cubic feet of cargo space",
-        "towing_capacity": "6,000 lbs (estimated)"
+        "towing_capacity": "6,000 lbs (estimated)",
+        "price": 52595
     },
     {
         "category": "Cherokee",
@@ -195,7 +205,8 @@
             "height": "170.5 cm"
         },
         "interior_space": "90.4 cubic feet of passenger volume, 79.5 cubic feet of cargo space",
-        "towing_capacity": "3,500 lbs (estimated)"
+        "towing_capacity": "3,500 lbs (estimated)",
+        "price": 41190
     },
     {
         "category": "Cherokee",
@@ -213,7 +224,8 @@
             "height": "170.5 cm"
         },
         "interior_space": "90.4 cubic feet of passenger volume, 79.5 cubic feet of cargo space",
-        "towing_capacity": "4,500 lbs (estimated)"
+        "towing_capacity": "4,500 lbs (estimated)",
+        "price": 38795
     },
     {
         "category": "Cherokee",
@@ -231,12 +243,13 @@
             "height": "170.5 cm"
         },
         "interior_space": "90.4 cubic feet of passenger volume, 79.5 cubic feet of cargo space",
-        "towing_capacity": "2,000 lbs (estimated)"
+        "towing_capacity": "2,000 lbs (estimated)",
+        "price": 33290
     },
     {
         "category": "Cherokee",
         "model_name": "2023 Jeep Cherokee Altitude",
-        "image": "[https://www.jeep.com/cherokee.html](https://www.jeep.com/cherokee.html)",
+        "image": "https://www.jeep.com/cherokee.html",
         "year": 2023,
         "mileage": "Up to 18 city / 24 highway (estimated)",
         "engine_type": "3.2L Pentastar V6 (likely)",
@@ -249,12 +262,13 @@
             "height": "170.5 cm"
         },
         "interior_space": "90.4 cubic feet of passenger volume, 79.5 cubic feet of cargo space",
-        "towing_capacity": "4,500 lbs (estimated)"
+        "towing_capacity": "4,500 lbs (estimated)",
+        "price": 37995
     },
     {
         "category": "Cherokee",
         "model_name": "2023 Jeep Cherokee Upland",
-        "image": "[https://www.jeep.com/cherokee.html](https://www.jeep.com/cherokee.html)",
+        "image": "https://www.jeep.com/cherokee.html",
         "year": 2023,
         "mileage": "Up to 19 city / 26 highway (estimated)",
         "engine_type": "2.0L I4 (likely)",
@@ -267,7 +281,8 @@
             "height": "170.5 cm"
         },
         "interior_space": "90.4 cubic feet of passenger volume, 79.5 cubic feet of cargo space",
-        "towing_capacity": "3,200 lbs (estimated)"
+        "towing_capacity": "3,200 lbs (estimated)",
+        "price": 35995
     },
     {
         "category": "Compass",
@@ -285,7 +300,8 @@
             "height": "163.6 cm"
         },
         "interior_space": "85.1 cubic feet of passenger volume, 27.7 cubic feet of cargo space",
-        "towing_capacity": "2,000 lbs (estimated)"
+        "towing_capacity": "2,000 lbs (estimated)",
+        "price": 39995
     },
     {
         "category": "Compass",
@@ -303,7 +319,8 @@
             "height": "163.6 cm"
         },
         "interior_space": "85.1 cubic feet of passenger volume, 27.7 cubic feet of cargo space",
-        "towing_capacity": "1,500 lbs (estimated)"
+        "towing_capacity": "1,500 lbs (estimated)",
+        "price": 36995
     },
     {
         "category": "Compass",
@@ -321,12 +338,13 @@
             "height": "163.6 cm"
         },
         "interior_space": "85.1 cubic feet of passenger volume, 27.7 cubic feet of cargo space",
-        "towing_capacity": "1,000 lbs (estimated)"
+        "towing_capacity": "1,000 lbs (estimated)",
+        "price": 32995
     },
     {
         "category": "Compass",
         "model_name": "Jeep Compass Altitude",
-        "image": "[https://www.jeep.com/compass/specs.html](https://www.jeep.com/compass/specs.html)",
+        "image": "https://www.jeep.com/compass/specs.html",
         "year": 2024,
         "mileage": "Up to 21 city / 30 highway (estimated)",
         "engine_type": "2.0L I4 (likely)",
@@ -339,12 +357,13 @@
             "height": "163.6 cm"
         },
         "interior_space": "85.1 cubic feet of passenger volume, 27.7 cubic feet of cargo space",
-        "towing_capacity": "1,500 lbs (estimated)"
+        "towing_capacity": "1,500 lbs (estimated)",
+        "price": 34995
     },
     {
         "category": "Compass",
         "model_name": "Jeep Compass Sport",
-        "image": "[https://www.jeep.com/compass/specs.sport.html](https://www.jeep.com/compass/specs.sport.html)",
+        "image": "https://www.jeep.com/compass/specs.sport.html",
         "year": 2024,
         "mileage": "Up to 24 city / 33 highway (estimated)",
         "engine_type": "2.0L I4 (likely)",
@@ -357,8 +376,10 @@
             "height": "163.6 cm"
         },
         "interior_space": "85.1 cubic feet of passenger volume, 27.7 cubic feet of cargo space",
-        "towing_capacity": "1,000 lbs (estimated)"
+        "towing_capacity": "1,000 lbs (estimated)",
+        "price": 31995
     },
+    
     {
         "category": "Grand Cherokee",
         "model_name": "Jeep Grand Cherokee Summit Reserve",
@@ -375,7 +396,8 @@
             "height": "180.2 cm"
         },
         "interior_space": "38.6 cubic feet cargo space (estimated for LWB)",
-        "towing_capacity": "8,200 lbs (estimated)"
+        "towing_capacity": "8,200 lbs (estimated)",
+        "price": 67995
     },
     {
         "category": "Grand Cherokee",
@@ -393,7 +415,8 @@
             "height": "180.2 cm"
         },
         "interior_space": "38.6 cubic feet cargo space (estimated for LWB)",
-        "towing_capacity": "6,000 lbs (estimated)"
+        "towing_capacity": "6,000 lbs (estimated)",
+        "price": 56995
     },
     {
         "category": "Grand Cherokee",
@@ -411,7 +434,8 @@
             "height": "180.2 cm"
         },
         "interior_space": "38.6 cubic feet cargo space (estimated for LWB)",
-        "towing_capacity": "4,500 lbs (estimated)"
+        "towing_capacity": "4,500 lbs (estimated)",
+        "price": 45995
     },
     {
         "category": "Grand Cherokee",
@@ -429,7 +453,8 @@
             "height": "180.2 cm"
         },
         "interior_space": "38.6 cubic feet cargo space (estimated for LWB)",
-        "towing_capacity": "6,000 lbs (estimated)"
+        "towing_capacity": "6,000 lbs (estimated)",
+        "price": 49995
     },
     {
         "category": "Grand Cherokee",
@@ -447,7 +472,8 @@
             "height": "180.2 cm"
         },
         "interior_space": "38.6 cubic feet cargo space (estimated for LWB)",
-        "towing_capacity": "6,500 lbs (estimated)"
+        "towing_capacity": "6,500 lbs (estimated)",
+        "price": 54995
     },
     {
         "category": "Renegade",
@@ -465,7 +491,8 @@
             "height": "169.7 cm"
         },
         "interior_space": "87.4 cubic feet of passenger volume, 15.1 cubic feet of cargo space",
-        "towing_capacity": "2,000 lbs (estimated)"
+        "towing_capacity": "2,000 lbs (estimated)",
+        "price": 31975
     },
     {
         "category": "Renegade",
@@ -483,7 +510,8 @@
             "height": "169.7 cm"
         },
         "interior_space": "87.4 cubic feet of passenger volume, 15.1 cubic feet of cargo space",
-        "towing_capacity": "1,500 lbs (estimated)"
+        "towing_capacity": "1,500 lbs (estimated)",
+        "price": 29975
     },
     {
         "category": "Renegade",
@@ -501,7 +529,8 @@
             "height": "169.7 cm"
         },
         "interior_space": "87.4 cubic feet of passenger volume, 15.1 cubic feet of cargo space",
-        "towing_capacity": "1,000 lbs (estimated)"
+        "towing_capacity": "1,000 lbs (estimated)",
+        "price": 27975
     },
     {
         "category": "Renegade",
@@ -519,7 +548,8 @@
             "height": "169.7 cm"
         },
         "interior_space": "87.4 cubic feet of passenger volume, 15.1 cubic feet of cargo space",
-        "towing_capacity": "1,500 lbs (estimated)"
+        "towing_capacity": "1,500 lbs (estimated)",
+        "price": 28975
     },
     {
         "category": "Renegade",
@@ -537,6 +567,102 @@
             "height": "169.7 cm"
         },
         "interior_space": "87.4 cubic feet of passenger volume, 15.1 cubic feet of cargo space",
-        "towing_capacity": "1,000 lbs (estimated)"
+        "towing_capacity": "1,000 lbs (estimated)",
+        "price": 25975
+    },
+    {
+        "category": "Wagoneer",
+        "model_name": "Jeep Wagoneer Series I",
+        "image": "https://www.jeep.com/wagoneer/wagoneer.html",
+        "year": 2024,
+        "mileage": "Up to 19 city / 25 highway (estimated)",
+        "engine_type": "3.6L Pentastar V6 (likely)",
+        "performance": "290 horsepower @ 6400 rpm, 257 lb-ft torque @ 4000 rpm (estimated)",
+        "transmission": "8-speed Automatic",
+        "drivetrain": "Quadra-Trac® I 4WD System with Selec-Terrain® Traction Management System",
+        "exterior_dimensions": {
+            "length": "575.0 cm",
+            "width": "212.3 cm",
+            "height": "183.2 cm"
+        },
+        "interior_space": "179.3 cubic feet of passenger volume, 27.4 cubic feet of cargo space",
+        "towing_capacity": "6,500 lbs (estimated)",
+        "price": 57975
+    },
+    {
+        "category": "Wagoneer",
+        "model_name": "Jeep Wagoneer Series II",
+        "image": "https://www.jeep.com/wagoneer/wagoneer.html",
+        "year": 2024,
+        "mileage": "Up to 20 city / 27 highway (estimated)",
+        "engine_type": "3.0L HEMI V6 (likely)",
+        "performance": "400 horsepower @ 6400 rpm, 470 lb-ft torque @ 4800 rpm (estimated)",
+        "transmission": "8-speed Automatic",
+        "drivetrain": "Quadra-Trac® II Full-Time Active 4WD System with Electronic Limited Slip Differential (ELSD) and Selec-Terrain® Traction Management System",
+        "exterior_dimensions": {
+            "length": "575.0 cm",
+            "width": "212.3 cm",
+            "height": "183.2 cm"
+        },
+        "interior_space": "179.3 cubic feet of passenger volume, 27.4 cubic feet of cargo space",
+        "towing_capacity": "8,000 lbs (estimated)",
+        "price": 65975
+    },
+    {
+        "category": "Wagoneer",
+        "model_name": "Jeep Wagoneer Carbide",
+        "image": "https://www.jeep.com/wagoneer/2023/wagoneer/specs.carbide.html",
+        "year": 2024,
+        "mileage": "Up to 18 city / 24 highway (estimated)",
+        "engine_type": "3.0L HEMI V6 (likely)",
+        "performance": "400 horsepower @ 6400 rpm, 470 lb-ft torque @ 4800 rpm (estimated)",
+        "transmission": "8-speed Automatic",
+        "drivetrain": "Quadra-Trac® II Full-Time Active 4WD System with Electronic Limited Slip Differential (ELSD) and Selec-Terrain® Traction Management System",
+        "exterior_dimensions": {
+            "length": "575.0 cm",
+            "width": "212.3 cm",
+            "height": "183.2 cm"
+        },
+        "interior_space": "179.3 cubic feet of passenger volume, 27.4 cubic feet of cargo space",
+        "towing_capacity": "8,000 lbs (estimated)",
+        "price": 73975
+    },
+    {
+        "category": "Grand Wagoneer",
+        "model_name": "Jeep Grand Wagoneer Series I",
+        "image": "https://www.jeep.com/wagoneer/grand-wagoneer.html",
+        "year": 2024,
+        "mileage": "Up to 17 city / 22 highway (estimated)",
+        "engine_type": "3.0L Twin-Turbo I6 (likely)",
+        "performance": "510 horsepower @ 5750 rpm, 500 lb-ft torque @ 3900 rpm (estimated)",
+        "transmission": "8-speed Automatic",
+        "drivetrain": "Quadra-Trac® I 4WD System with Selec-Terrain® Traction Management System",
+        "exterior_dimensions": {
+            "length": "575.0 cm",
+            "width": "212.3 cm",
+            "height": "183.2 cm"
+        },
+        "interior_space": "179.3 cubic feet of passenger volume, 42.7 cubic feet of cargo space",
+        "towing_capacity": "9,500 lbs (estimated)",
+        "price": 89975
+    },
+    {
+        "category": "Grand Wagoneer",
+        "model_name": "Jeep Grand Wagoneer Series III",
+        "image": "https://www.jeep.com/wagoneer/grand-wagoneer.html",
+        "year": 2024,
+        "mileage": "Up to 16 city / 21 highway (estimated)",
+        "engine_type": "3.0L Twin-Turbo I6 (likely)",
+        "performance": "510 horsepower @ 5750 rpm, 500 lb-ft torque @ 3900 rpm (estimated)",
+        "transmission": "8-speed Automatic",
+        "drivetrain": "Quadra-Drive® II Full-Time Active 4WD System with Electronic Limited Slip Differential (ELSD) and Selec-Terrain® Traction Management System",
+        "exterior_dimensions": {
+            "length": "575.0 cm",
+            "width": "212.3 cm",
+            "height": "183.2 cm"
+        },
+        "interior_space": "179.3 cubic feet of passenger volume, 42.7 cubic feet of cargo space",
+        "towing_capacity": "10,000 lbs (estimated)",
+        "price": 99975
     }
 ]

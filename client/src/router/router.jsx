@@ -18,7 +18,8 @@ const router = createBrowserRouter([
             },
             {
                 path: '/vehicles',
-                element: <Vehicles></Vehicles>
+                element: <Vehicles></Vehicles>,
+                loader: () => fetch('jeep.json')
             },
             {
                 path: '/shipping-tools',
